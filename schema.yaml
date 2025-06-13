@@ -1,0 +1,38 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Fiche d'opération standardisée
+type: object
+properties:
+  id:
+    title: Identifiant
+    type: string
+  secteur:
+    title: Secteur
+    type: string
+  sous_secteur:
+    title: Sous-secteur
+    type: string
+  code:
+    title: Code
+    type: string
+  nom:
+    title: Nom
+    type: string
+  version:
+    title: Version de l'arrêté
+    type: string
+  date_debut:
+    title: Date de début
+    type: string
+    format: date
+  date_fin:
+    title: Date de fin
+    type: string
+    format: [date, "null"]
+required:
+  - id
+  - secteur
+  - sous_secteur
+  - code
+  - nom
+  - version
+  - date_debut

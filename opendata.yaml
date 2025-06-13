@@ -1,0 +1,12 @@
+title: Fiches d'opérations standardisées
+description: Liste des fiches d'opérations standardisées d'économies d'énergie du dispositif des Certificats d'Économies d'Énergie (CEE) en France.
+owner: Pôle National des Certificats d'Economie d'Energie (PNCEE)
+licence: https://www.etalab.gouv.fr/licence-ouverte-open-licence
+home: https://www.data.gouv.fr/fr/datasets/fiches-operations-standardisees
+versions:
+  current:
+    url: https://www.data.gouv.fr/fr/datasets/r/b4cdb7a6-c8ad-4a63-87bc-e43ea1e95e9e
+    schema:
+      type: array
+      items:
+        $ref: https://raw.githubusercontent.com/action-21/fiches-operations-standardisees/refs/heads/main/schema.yaml
