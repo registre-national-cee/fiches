@@ -18,7 +18,7 @@
         Plateforme
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/registre-national-cee/fiches">
-        Fiches d'opération standardisée
+        Fiches d'opérations standardisées
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/registre-national-cee/bonifications">
         Bonifications
