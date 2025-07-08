@@ -1,4 +1,32 @@
-# Fiches d'opérations standardisées d'économies d'énergie
+<div align="center">
+    <img width="auto" height="80" src="https://raw.githubusercontent.com/registre-national-cee/.github/refs/heads/main/assets/logo.svg" alt="Registre national des CEE">
+</div>
+<p align="center">
+    <a href="https://github.com/registre-national-cee">
+        Le projet
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/opendata">
+        Données ouvertes
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/documentation">
+        Documentation
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/api">
+        API
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/app">
+        Plateforme
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/fiches">
+        Fiches d'opération standardisée
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/registre-national-cee/bonifications">
+        Bonifications
+    </a>
+</p>
+<br/>
+
+# Registre national des Certificats d'Economies d'Energie - Fiches d'opérations standardisées
 
 Données publiques des fiches d'opérations standardisées d'économies d'énergie définies dans le cadre du dispositif des Certificats d'Economies d'Energie (CEE).
 
